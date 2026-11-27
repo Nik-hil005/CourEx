@@ -1,0 +1,18 @@
+{
+    "locations": ["W", "A", "B", "C", "D", "E"],
+
+    "roads": [
+        {"from": "W", "to": "A", "distance": 4},
+        {"from": "W", "to": "B", "distance": 2},
+        {"from": "W", "to": "C", "distance": 7},
+
+        {"from": "A", "to": "B", "distance": 1},
+        {"from": "A", "to": "D", "distance": 5},
+
+        {"from": "B", "to": "C", "distance": 3},
+        {"from": "B", "to": "D", "distance": 8},
+
+        {"from": "C", "to": "E", "distance": 4},
+        {"from": "D", "to": "E", "distance": 2}
+    ]
+}
